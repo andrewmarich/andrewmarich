@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning: React<br>🎯 Current goal: Broaden my depth as a programmer<br>🎲 Fun fact: I also hold a Finance degree</p>
+<p align="left">✨ Creating bugs since: 2020<br>📚 I'm currently learning: React<br>🎯 Current goal: Broaden my depth as a programmer<br>🎲 Fun fact: I also hold a Finance degree</p>
 
 ###
 
