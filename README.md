@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a full-stack software engineer who is completing a B.S. in Computer Science at WGU.</p>
+<p align="left">I'm a full-stack software engineer at 100Devs, where I help transform client ideas into working demos. I'm currently studying Computer Science at Western Governors University, where I'm expected to graduate in May 2024. I also have a background in Finance at the University of Arizona, where I graduated with honors. When I'm not programming, you can probably find me consuming media, finding new foods, or hanging with my 2 Labradors :)</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2020<br>📚 I'm currently learning: React<br>🎯 Current goal: Broaden my depth as a programmer<br>🎲 Fun fact: I also hold a Finance degree</p>
+<p align="left">✨ Creating bugs since: 2020<br>📚 I'm currently learning: React<br>🎯 Current goal: Broaden my depth as a programmer<br>🎲 Fun fact: I'm originally from Tucson, AZ</p>
 
 ###
 
