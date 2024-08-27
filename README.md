@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a full-stack software engineer at 100Devs, where I help transform client ideas into working demos. I’m currently studying Computer Science at Western Governors University. I also hold a Bachelor’s in Finance from the University of Arizona. In my free time, you can find me consuming media, trying new foods, or hanging with my two Labradors. :)</p>
+<p align="left">I'm a full-stack software engineer at 100Devs, where I help transform client ideas into web applications. I hold a Bachelor's in Computer Science from Western Governors University and a Bachelor's in Finance from University of Arizona. In my free time, you can find me playing video games, trying new foods, or hanging with my two Labradors. :)</p>
 
 ###
 
