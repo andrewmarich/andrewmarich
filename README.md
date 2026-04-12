@@ -4,11 +4,11 @@
 
 ```
 ┌─────────────────────────────────────────────────┐
-│   █████    ██   ██                              │
-│  ██   ██   ███ ███   Andrew Marich              │
-│  ███████   ██ █ ██   full-stack engineer        │
-│  ██   ██   ██   ██                              │
-│  ██   ██   ██   ██   gilbert, arizona           │
+│   █████    ██    ██                             │
+│  ██   ██   ███  ███   Andrew Marich             │
+│  ███████   ██ ██ ██   full-stack engineer       │
+│  ██   ██   ██    ██                             │
+│  ██   ██   ██    ██   gilbert, arizona          │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -20,7 +20,7 @@
 
 ## `> whoami`
 
-Full-stack engineer with a Finance degree from U of A and a CS degree from WGU. I like building things across the stack - cloud infrastructure, internal tooling, and the interfaces people actually use.
+Full-stack engineer with a Finance degree from U of A and a CS degree from WGU. I like building things across the stack — cloud infrastructure, internal tooling, and the interfaces people actually use.
 
 ## `> cat .now`
 
@@ -44,8 +44,8 @@ ai-tooling/     Claude Code · ChatGPT · Warp · local LLMs
 ## `> stats --user=andrewmarich`
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewmarich&show_icons=true&theme=transparent&hide_border=true&title_color=FFB000&icon_color=FFB000&text_color=8888A0&ring_color=FFB000" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmarich&layout=compact&theme=transparent&hide_border=true&title_color=FFB000&text_color=8888A0&langs_count=8" height="155" />
+  <img src="https://github-readme-stats-zeta-ten-52.vercel.app/api?username=andrewmarich&show_icons=true&hide_border=true&theme=transparent&title_color=FFB000&icon_color=FFB000&text_color=8888A0&ring_color=FFB000" height="155" />
+  <img src="https://github-readme-stats-zeta-ten-52.vercel.app/api/top-langs/?username=andrewmarich&layout=compact&hide_border=true&theme=transparent&title_color=FFB000&text_color=8888A0&langs_count=8" height="155" />
 </p>
 
 ## `> exit 0`
