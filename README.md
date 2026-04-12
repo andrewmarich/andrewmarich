@@ -1,68 +1,53 @@
-<h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A full-stack software engineer at 100Devs</h3>
-
-<h3 align="left">About Me</h3>
-<p align="left">✨ Creating bugs since: 2020<br>📚 I'm currently learning: React<br>🎯 Current goal: Broaden my depth as a developer<br>🎲 Fun fact: I'm originally from Tucson, AZ</p>
-
-<h3 align="left">Skills</h3>
-<div align="left">
-  <h5>Languages</h5>
-    <div>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-      <img width="12" />
-    </div>
-  <h5>Frameworks & Libraries</h5>
-    <div>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hibernate/hibernate-original-wordmark.svg" height="40" alt="hibernate logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" height="40" alt="junit logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-      <img width="12" />
-    </div>
-  <h5>Tools</h5>
-    <div>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="gitlab logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original-wordmark.svg" height="40" alt="maven logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-      <img width="12" />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
-      <img width="12" />
-    </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=520&lines=~+hello%2C+world;%3E+andrew.marich;%3E+full-stack+engineer" alt="Typing animation" />
 </div>
+
+```
+┌─────────────────────────────────────────────────┐
+│   █████    ██   ██                              │
+│  ██   ██   ███ ███   Andrew Marich              │
+│  ███████   ██ █ ██   full-stack engineer        │
+│  ██   ██   ██   ██                              │
+│  ██   ██   ██   ██   gilbert, arizona           │
+└─────────────────────────────────────────────────┘
+```
+
+<p align="right">
+  <a href="https://marich.dev"><img src="https://img.shields.io/badge/-marich.dev-FFB000?style=flat-square&labelColor=08080F" alt="Portfolio" /></a>
+  <a href="mailto:andrew@marich.dev"><img src="https://img.shields.io/badge/-andrew%40marich.dev-8888A0?style=flat-square&labelColor=08080F" alt="Email" /></a>
+  <a href="https://linkedin.com/in/andrewmarich"><img src="https://img.shields.io/badge/-linkedin-8888A0?style=flat-square&labelColor=08080F" alt="LinkedIn" /></a>
+</p>
+
+## `> whoami`
+
+Full-stack engineer with a Finance degree from U of A and a CS degree from WGU. I like building things across the stack - cloud infrastructure, internal tooling, and the interfaces people actually use.
+
+## `> cat .now`
+
+```yaml
+role:    Full-Stack Engineer @ B1 Marketing Group
+side:    CTO & Co-Founder @ Balance (medical billing platform)
+stack:   React, TypeScript, Python, Django, Cloudflare Workers
+focus:   frontend ownership, API integrations, cloud infrastructure
+```
+
+## `> ls stack/`
+
+```
+frontend/       React · TypeScript · Astro · Tailwind · HTMX · TanStack
+backend/        Python · Django · Node.js · PostgreSQL · Redis · Drizzle
+infrastructure/ AWS · GCP · Cloudflare · Docker · Terraform
+integrations/   Stripe · Twilio · HubSpot · DocuSign
+ai-tooling/     Claude Code · ChatGPT · Warp · local LLMs
+```
+
+## `> stats --user=andrewmarich`
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewmarich&show_icons=true&theme=transparent&hide_border=true&title_color=FFB000&icon_color=FFB000&text_color=8888A0&ring_color=FFB000" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmarich&layout=compact&theme=transparent&hide_border=true&title_color=FFB000&text_color=8888A0&langs_count=8" height="155" />
+</p>
+
+## `> exit 0`
+
+<sub>`// there are a few things hidden around `[`marich.dev`](https://marich.dev)` if you like poking at websites`</sub>
