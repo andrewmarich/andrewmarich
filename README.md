@@ -44,8 +44,8 @@ ai-tooling/     Claude Code · ChatGPT · Warp · local LLMs
 ## `> stats --user=andrewmarich`
 
 <p>
-  <img src="https://github-readme-stats-zeta-ten-52.vercel.app/api?username=andrewmarich&show_icons=true&hide_border=true&theme=transparent&title_color=FFB000&icon_color=FFB000&text_color=8888A0&ring_color=FFB000" height="155" />
-  <img src="https://github-readme-stats-zeta-ten-52.vercel.app/api/top-langs/?username=andrewmarich&layout=compact&hide_border=true&theme=transparent&title_color=FFB000&text_color=8888A0&langs_count=8" height="155" />
+  <img src="https://github-readme-stats-zeta-ten-52.vercel.app/api?username=andrewmarich&show_icons=true&hide_border=true&theme=transparent&title_color=FFB000&icon_color=FFB000&text_color=8888A0&ring_color=FFB000&count_private=true" height="155" />
+  <img src="https://github-readme-stats-zeta-ten-52.vercel.app/api/top-langs/?username=andrewmarich&layout=compact&hide_border=true&theme=transparent&title_color=FFB000&text_color=8888A0&langs_count=8&count_private=true" height="155" />
 </p>
 
 ## `> exit 0`
