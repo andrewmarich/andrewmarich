@@ -20,25 +20,25 @@
 
 ## `> whoami`
 
-Full-stack engineer with a Finance degree from U of A and a CS degree from WGU. I like building things across the stack — cloud infrastructure, internal tooling, and the interfaces people actually use.
+Full-stack engineer with a Finance degree from U of A and a CS degree from WGU. I build products and lead the engineering behind them.
 
 ## `> cat .now`
 
 ```yaml
-role:    Full-Stack Engineer @ B1 Marketing Group
-side:    CTO & Co-Founder @ Balance (medical billing platform)
-stack:   React, TypeScript, Python, Django, Cloudflare Workers
-focus:   frontend ownership, API integrations, cloud infrastructure
+role:     Co-Founder & CTO @ Balance Health (patient billing)
+previous: Lead Software Engineer @ B1 Marketing Group
+stack:    TypeScript, React, Python, Django, PostgreSQL, AWS, GCP
+open:     full-time roles · hybrid, remote, or local on-site
 ```
 
 ## `> ls stack/`
 
 ```
-frontend/       React · TypeScript · Astro · Tailwind · HTMX · TanStack
-backend/        Python · Django · Node.js · PostgreSQL · Redis · Drizzle
-infrastructure/ AWS · GCP · Cloudflare · Docker · Terraform
-integrations/   Stripe · Twilio · HubSpot · DocuSign
-ai-tooling/     Claude Code · ChatGPT · Warp · local LLMs
+languages/      TypeScript · JavaScript · Python · SQL
+technologies/   React · TanStack Start · Django · HTMX · Node.js · PostgreSQL · Redis · Drizzle ORM · Astro
+cloud-devops/   AWS · GCP · Terraform · Docker · CI/CD
+testing/        Playwright · Selenium · Vitest · pytest · k6
+ai-tooling/     Claude Code · Codex · OpenCode · MCP · self-hosted LLMs
 ```
 
 ## `> stats --user=andrewmarich`
